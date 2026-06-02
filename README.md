@@ -17,7 +17,6 @@ This portfolio showcases my projects, certifications, technical skills, and achi
 - Python
 - SQL
 - DBMS
-- Operating Systems
 - Git & GitHub
 
 ---
