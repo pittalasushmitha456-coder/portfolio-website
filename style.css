@@ -1445,3 +1445,15 @@ footer{
     text-align: center;
     padding: 20px;
 }
+.publications-links {
+    margin-top: 18px;
+}
+/* AgriValue card only */
+.agrivalue-card .info-card2 {
+    margin-top: 12px;
+}
+
+.agrivalue-card .project-info2 p {
+    margin-bottom: 8px;
+    line-height: 1.5;
+}

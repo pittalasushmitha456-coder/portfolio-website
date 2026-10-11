@@ -3,7 +3,14 @@ const roles = [
     "Problem Solver",
     "Frontend Developer",
     "Java Enthusiast",
-    "CSE Student"
+    "CSE Student",
+    "Aspiring Data Analyst",
+    "Aspiring Data Scientist",
+    "Aspiring Data Engineer",
+    "Aspiring AI/ML Engineer",
+    "Generative AI Enthusiast",
+    "Machine Learning Enthusiast",
+
 ];
 
 let roleIndex = 0;
